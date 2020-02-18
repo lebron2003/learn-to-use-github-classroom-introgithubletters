@@ -1,6 +1,6 @@
 # Python group student letter creation
 # Authors: Whole class, each student is responsible for a different letter
-# Will be practicing Merge adn showing other GitHub features
+# Will be practicing Merge and showing other GitHub features
 #
 # Begun: Feb. 18/20
 import pygame *
