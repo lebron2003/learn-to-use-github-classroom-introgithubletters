@@ -11,18 +11,18 @@ pygame.init()
 white = (255, 255, 255)
 
 # assigning values to X and Y variable
-X = 400
-Y = 400
+X = 250
+Y = 250
 
 # create the display surface object
 # of specific dimension..e(X, Y).
 display_surface = pygame.display.set_mode((X, Y))
 
 # set the pygame window name
-pygame.display.set_caption('Image')
+pygame.display.set_caption('Letter M')
 
-# create a surface object, image is drawn on it.
-image = pygame.image.load(r'E:\learn-to-use-github-classroom-introgithubletters\letterM.jpg')
+# create a surface object, image is drawn on it. Mine is on my USB.
+image = pygame.image.load(r'F:\learn-to-use-github-classroom-introgithubletters\letterM.jpg')
 
 # infinite loop
 while True:
