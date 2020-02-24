@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7f6c69-3439-4e0e-9d7b-8a1e2ae39732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-to-use-github-classroom-introgithubletters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-to-use-github-classroom-introgithubletters.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lol.py" beforeDir="false" afterPath="$PROJECT_DIR$/lol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,22 +137,44 @@
       <option name="project" value="LOCAL" />
       <updated>1582154846815</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added print">
+      <created>1582570598987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582570598987</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added print">
+      <created>1582570736998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582570736998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Letter M">
+      <created>1582570795453</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582570795453</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added print" />
+    <MESSAGE value="Letter M" />
+    <option name="LAST_COMMIT_MESSAGE" value="Letter M" />
   </component>
   <component name="WindowStateProjectService">
     <state x="531" y="44" key="#Letters" timestamp="1582064627266">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="531" y="44" key="#Letters/0.0.1600.860@0.0.1600.860" timestamp="1582064627266" />
-    <state x="363" y="27" key="CommitChangelistDialog2" timestamp="1582570735550">
+    <state x="363" y="27" key="CommitChangelistDialog2" timestamp="1582570793947">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="363" y="27" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1582570735550" />
+    <state x="363" y="27" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1582570793947" />
     <state x="454" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582154843682" />
     <state x="464" y="211" key="FileChooserDialogImpl" timestamp="1582224706542">
       <screen x="0" y="0" width="1280" height="984" />
@@ -211,10 +230,10 @@
     </state>
     <state x="241" y="82" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1582224761905" />
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582154032401" />
-    <state x="314" y="187" key="Vcs.Push.Dialog.v2" timestamp="1582570740979">
+    <state x="314" y="187" key="Vcs.Push.Dialog.v2" timestamp="1582570797358">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="314" y="187" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1582570740979" />
+    <state x="314" y="187" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1582570797358" />
     <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1582154850257" />
     <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1582224690883">
       <screen x="0" y="0" width="1280" height="984" />
